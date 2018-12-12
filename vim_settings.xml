@@ -1,0 +1,364 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/development/cels/sa4/app/Services/Validation/UploadValidator.php" timestamp="1525983629465">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Services/Organization/OrganizationServiceTest.php" timestamp="1544633176365" />
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/TestController.php" timestamp="1544630208101">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/views/angular/forms/show.blade.php" timestamp="1544640747819">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="135" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1544632251234">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/GoalsController.php" timestamp="1541444831768">
+        <mark key="[" line="81" column="28" />
+        <mark key="]" line="81" column="27" />
+        <mark key="^" line="81" column="27" />
+        <mark key="." line="81" column="27" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/phpunit.xml" timestamp="1531839984515">
+        <mark key="[" line="11" column="51" />
+        <mark key="]" line="11" column="50" />
+        <mark key="^" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/.php_cs.dist" timestamp="1544632706745">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/database/migrations/2018_03_28_201411_duplicate_training_levels_for_orgs.php" timestamp="1522274576268">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/tests/unit/Models/PublicUploadTest.php" timestamp="1525983854240">
+        <mark key="[" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/js/controllers/modals/createFormModalCtrl.js" timestamp="1533045322668">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/Feature/TrainingProgressReports/FacultyProgressTest.php" timestamp="1544644944382">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="44" column="49" />
+        <mark key="." line="44" column="49" />
+        <mark key="^" line="44" column="49" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/app/Repositories/Eloquent/TrainingLevelRepository.php" timestamp="1522266112638">
+        <mark key="[" line="21" column="25" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Services/Form/FormServiceTest.php" timestamp="1533049028551">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/app/Transformers/PublicUploadTransformer.php" timestamp="1525983875822">
+        <mark key="[" line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Services/Form/FormService.php" timestamp="1533049043096">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/UsersController.php" timestamp="1532972975949">
+        <mark key="[" line="332" column="9" />
+        <mark key="]" line="332" column="10" />
+        <mark key="^" line="332" column="10" />
+        <mark key="." line="332" column="10" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/app/Services/Validation/PublicUploadValidator.php" timestamp="1525983613232">
+        <mark key="[" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/app/Repositories/Eloquent/TrainingPlanRepository.php" timestamp="1522421403509">
+        <mark key="[" line="101" column="15" />
+        <mark key="]" line="101" column="14" />
+        <mark key="^" line="101" column="14" />
+        <mark key="." line="101" column="14" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Forms/FormsControllerTest.php" timestamp="1533046708595">
+        <mark key="[" line="347" column="34" />
+        <mark key="]" line="347" column="35" />
+        <mark key="^" line="347" column="35" />
+        <mark key="." line="347" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm64.vmoptions" timestamp="1533045979101">
+        <mark key="[" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/app/Listeners/PublicUploadListener.php" timestamp="1525983406642">
+        <mark key="[" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/app/Services/Upload/PublicUploadService.php" timestamp="1525983693746">
+        <mark key="[" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/app/Services/Validation/TrainingPlanValidator.php" timestamp="1522354664046">
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="49" column="7" />
+        <mark key="." line="49" column="7" />
+        <mark key="^" line="49" column="15" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/js/controllers/admin/adminFormsCtrls.js" timestamp="1533049372568">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="65" />
+        <mark key="." line="2" column="65" />
+        <mark key="^" line="2" column="65" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/resources/lang/en/publicupload.php" timestamp="1525984057503">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/views/angular/admin/dashboard.blade.php" timestamp="1533049563980">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/js/services/form-service.js" timestamp="1533045277965">
+        <mark key="[" line="23" column="25" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Services/Upload/UploadService.php" timestamp="1544641769608">
+        <mark key="[" line="310" column="22" />
+        <mark key="]" line="361" column="27" />
+        <mark key="^" line="361" column="27" />
+        <mark key="." line="361" column="27" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/app/Http/Controllers/Api/MeetingsController.php" timestamp="1522167398166">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/AngularController.php" timestamp="1544630592438">
+        <mark key="[" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/widgets/cels-uploadcare-manager.js" timestamp="1544640847388">
+        <mark key="[" line="270" column="48" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Meetings/MeetingsControllerTest.php" timestamp="1544633166723" />
+      <file name="$USER_HOME$/development/cels/sa4/app/Models/Upload.php" timestamp="1528221104512">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/tests/unit/Controllers/PublicUploads/PublicUploadsControllerTest.php" timestamp="1525983673972">
+        <mark key="[" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/.env" timestamp="1532964263429">
+        <mark key="[" line="43" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1522168366653">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/database/migrations/2018_03_07_144514_add_placement_instructions_to_organization.php" timestamp="1522262300867">
+        <mark key="[" line="15" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1522352047626">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Services/Form/AssessmentCategory/FormServiceTest.php" timestamp="1533046812723">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/js/config/routeConfig.js" timestamp="1533049445872">
+        <mark key="[" line="419" column="7" />
+        <mark key="]" line="417" column="31" />
+        <mark key="." line="417" column="31" />
+        <mark key="^" line="417" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544644950089">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/tests/unit/Services/Upload/PublicUploadServiceTest.php" timestamp="1525983710015">
+        <mark key="[" line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/Feature/TrainingProgressReports/FacultyProgress.php" timestamp="1544632024410">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/SaTestCase.php" timestamp="1531924522817">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="47" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/tests/unit/Validators/PublicUploadValidatorTest.php" timestamp="1525983896957">
+        <mark key="[" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/views/partials/privateHeader.blade.php" timestamp="1533049622091">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa4/database/seeds/PublicUploadsSeeder.php" timestamp="1525983728208">
+        <mark key="[" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/js/services/modal-service.js" timestamp="1533044721589">
+        <mark key="[" line="1681" column="29" />
+        <mark key="]" line="1681" column="28" />
+        <mark key="^" line="1681" column="28" />
+        <mark key="." line="1681" column="28" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/TrainingLevelProgressReportController.php" timestamp="1544634301064">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/js/controllers/admin/adminOrganizationsCtrls.js" timestamp="1533044826796">
+        <mark key="[" line="300" column="5" />
+        <mark key="]" line="299" column="43" />
+        <mark key="^" line="299" column="43" />
+        <mark key="." line="299" column="43" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Meetings/Test.php" timestamp="1544628576158">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Organizations/OrganizationsControllerTest.php" timestamp="1531836024253">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="46" column="4" />
+        <mark key="^" line="46" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="15" column="4" filename="$USER_HOME$/development/cels/sa4/tests/unit/Controllers/TrainingLevels/TrainingLevelsControllerTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa4/database/migrations/2010_01_26_141637_create_sa_database.php" />
+      <jump line="76" column="10" filename="$USER_HOME$/development/cels/sa4/tests/unit/Controllers/TrainingPlans/TrainingPlansControllerTest.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/OrganizationsController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa/app/Models/User.php" />
+      <jump line="929" column="12" filename="$USER_HOME$/development/cels/sa/app/Models/User.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/FormsController.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>strtolower($</text>
+      </register>
+      <register name="-" type="4">
+        <text>strtolower($</text>
+      </register>
+      <register name="/" type="4">
+        <text>status</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0SnNvbigiL2FwaS9yZXBvcnRzL3RyYWluaW5nX2xldmVsLyR0cmFpbmluZ0xldmVsLT5pZC9mYWN1bHR5IiktPmFzc2VydFJlc3BvbnNlU3RhdHVzKEhUVFBfRk9SQklEREVOKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVzcG9uc2VKc29uKCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnaGVyZScpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnaGVyZScpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkcG9zID0gY3JlYXRlKFBvc2l0aW9uOjpjbGFzcywgWyd1c2VyX2lkJyA9PiAkY29vcmQtPmlkLCAncm9sZV9pZCcgPT4gcm9sZSgnY29vcmRpbmF0b3InKS0+aWQsICdvcmdhbml6YXRpb25faWQnID0+ICRwbGFjZW1lbnQtPnRyYWluaW5nLT5vcmdhbml6YXRpb24tPmlkXSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcG9zKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZChyb2xlKCdjb29yZGluKTsK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>status</last-search>
+      <last-offset />
+      <last-pattern>status</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>36</entry>
+        <entry>training_plans</entry>
+        <entry>status</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
