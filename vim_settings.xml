@@ -35,10 +35,10 @@
         <mark key="^" line="11" column="50" />
         <mark key="." line="11" column="50" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/.php_cs.dist" timestamp="1544645569097">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/development/cels/sa/.php_cs.dist" timestamp="1544651764418">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/database/migrations/2018_03_28_201411_duplicate_training_levels_for_orgs.php" timestamp="1522274576268">
         <mark key="[" line="17" column="30" />
@@ -69,8 +69,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/composer.json" timestamp="1544649784710">
-        <mark key="[" line="74" column="30" />
+      <file name="$USER_HOME$/development/cels/sa/composer.json" timestamp="1544651223023">
+        <mark key="[" line="125" column="53" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Transformers/PublicUploadTransformer.php" timestamp="1525983875822">
         <mark key="[" line="6" column="12" />
@@ -100,9 +100,6 @@
         <mark key="]" line="347" column="35" />
         <mark key="^" line="347" column="35" />
         <mark key="." line="347" column="35" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/phpstorm64.vmoptions" timestamp="1533045979101">
-        <mark key="[" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Listeners/PublicUploadListener.php" timestamp="1525983406642">
         <mark key="[" line="8" column="14" />
@@ -151,10 +148,10 @@
       <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/AngularController.php" timestamp="1544630592438">
         <mark key="[" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/tests/unit/CodeSniffTest.php" timestamp="1544649029368">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/CodeSniffTest.php" timestamp="1544651985613">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/widgets/cels-uploadcare-manager.js" timestamp="1544640847388">
         <mark key="[" line="270" column="48" />
@@ -183,13 +180,13 @@
       <file name="$USER_HOME$/development/cels/sa4/database/migrations/2018_03_07_144514_add_placement_instructions_to_organization.php" timestamp="1522262300867">
         <mark key="[" line="15" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1522352047626">
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Services/Form/AssessmentCategory/FormServiceTest.php" timestamp="1533046812723">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm64.vmoptions" timestamp="1533045979101">
+        <mark key="[" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/resources/assets/js/config/routeConfig.js" timestamp="1533049445872">
         <mark key="[" line="419" column="7" />
@@ -252,6 +249,9 @@
       </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Meetings/Test.php" timestamp="1544628576158">
         <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1522352047626">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Organizations/OrganizationsControllerTest.php" timestamp="1531836024253">
         <mark key="[" line="46" column="5" />
