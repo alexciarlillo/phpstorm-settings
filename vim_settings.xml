@@ -36,8 +36,8 @@
         <mark key="^" line="11" column="50" />
         <mark key="." line="11" column="50" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/.php_cs.dist" timestamp="1544632706745">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/development/cels/sa/.php_cs.dist" timestamp="1544645569097">
+        <mark key="[" line="21" column="9" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -134,8 +134,8 @@
       <file name="$USER_HOME$/development/cels/sa/resources/assets/js/services/form-service.js" timestamp="1533045277965">
         <mark key="[" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/app/Services/Upload/UploadService.php" timestamp="1544641769608">
-        <mark key="[" line="310" column="22" />
+      <file name="$USER_HOME$/development/cels/sa/app/Services/Upload/UploadService.php" timestamp="1544646148079">
+        <mark key="[" line="339" column="25" />
         <mark key="]" line="361" column="27" />
         <mark key="^" line="361" column="27" />
         <mark key="." line="361" column="27" />
@@ -148,6 +148,12 @@
       </file>
       <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/AngularController.php" timestamp="1544630592438">
         <mark key="[" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/CodeSniffTest.php" timestamp="1544647027278">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/widgets/cels-uploadcare-manager.js" timestamp="1544640847388">
         <mark key="[" line="270" column="48" />
@@ -168,6 +174,12 @@
       <file name="/JavaScript Console" timestamp="1522168366653">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/phpcs.xml.dist" timestamp="1544647050506">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="54" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa4/database/migrations/2018_03_07_144514_add_placement_instructions_to_organization.php" timestamp="1522262300867">
         <mark key="[" line="15" column="10" />
       </file>
@@ -185,7 +197,7 @@
         <mark key="." line="417" column="31" />
         <mark key="^" line="417" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544644950089">
+      <file name="/Dummy.txt" timestamp="1544646218967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -230,6 +242,9 @@
         <mark key="^" line="299" column="43" />
         <mark key="." line="299" column="43" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/phpcs.xml" timestamp="1544647183764">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Meetings/Test.php" timestamp="1544628576158">
         <mark key="[" line="0" column="5" />
       </file>
@@ -250,11 +265,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/FormsController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>strtolower($</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>strtolower($</text>
+        <text>Classes.ClassDeclaration.MissingNamespace</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -266,28 +281,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08ZXhjbHVkZS1wYXR0ZXJuPiovdGVzdHMvKjwvZXhjbHVkZS1wYXR0ZXJuPi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVzcG9uc2VKc29uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZXhjbHVkZS1wYXR0ZXJuPiovZGF0YS8qPC9leGNsdWRlLXBhdHRlcm4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaGVyZScpOwo=</text>
+        <text encoding="base64">PHJ1bGVzZXQgbmFtZT0iQ3VzdG9tIFN0YW5kYXJkIiBuYW1lc3BhY2U9Ik15UHJvamVjdFxDU1xTdGFuZGFyZCI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaGVyZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9zID0gY3JlYXRlKFBvc2l0aW9uOjpjbGFzcywgWyd1c2VyX2lkJyA9PiAkY29vcmQtPmlkLCAncm9sZV9pZCcgPT4gcm9sZSgnY29vcmRpbmF0b3InKS0+aWQsICdvcmdhbml6YXRpb25faWQnID0+ICRwbGFjZW1lbnQtPnRyYWluaW5nLT5vcmdhbml6YXRpb24tPmlkXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVzcG9uc2VKc29uKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcG9zKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaGVyZScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZChyb2xlKCdjb29yZGluKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
       </register>
     </registers>
     <search>
