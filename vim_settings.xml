@@ -69,8 +69,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/composer.json" timestamp="1544651223023">
-        <mark key="[" line="125" column="53" />
+      <file name="$USER_HOME$/development/cels/sa/composer.json" timestamp="1544653490031">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Transformers/PublicUploadTransformer.php" timestamp="1525983875822">
         <mark key="[" line="6" column="12" />
@@ -147,11 +149,6 @@
       </file>
       <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/AngularController.php" timestamp="1544630592438">
         <mark key="[" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/development/cels/sa/tests/unit/CodeSniffTest.php" timestamp="1544651985613">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/widgets/cels-uploadcare-manager.js" timestamp="1544640847388">
         <mark key="[" line="270" column="48" />
@@ -242,10 +239,10 @@
         <mark key="^" line="299" column="43" />
         <mark key="." line="299" column="43" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/phpcs.xml" timestamp="1544649292601">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
+      <file name="$USER_HOME$/development/cels/sa/phpcs.xml" timestamp="1544653543229">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Meetings/Test.php" timestamp="1544628576158">
         <mark key="[" line="0" column="5" />
@@ -270,11 +267,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/FormsController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Generic.CodeAnalysis.UnusedFunctionParameter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Generic.CodeAnalysis.UnusedFunctionParameter</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -286,28 +283,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgIDxydWxlIHJlZj0iR2VuZXJpYy5BcnJheXMuRGlzYWxsb3dMb25nQXJyYXlTeW50YXgiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gYWRkaXRpb25hbCBydWxlcyAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAicGhwLWNzLWZpeGVyIjogInBocC1jcy1maXhlciAtLWNvbmZpZz0uLy5waHBfY3MuZGlzdCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAicGhwY3MiOiAicGhwY3MgLS1zdGFuZGFyZD1waHBjcy54bWwiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IGQgICBwdWJsaWMgZnVuY3Rpb24gdGVzdF9pdF9hZ2FpbigpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS08ZXhjbHVkZS1wYXR0ZXJuPiovdGVzdHMvKjwvZXhjbHVkZS1wYXR0ZXJuPi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZXhjbHVkZS1wYXR0ZXJuPiovZGF0YS8qPC9leGNsdWRlLXBhdHRlcm4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
