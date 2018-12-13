@@ -40,8 +40,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/app/Services/Notification/NotificationService.php" timestamp="1544710047363">
+      <file name="$USER_HOME$/development/cels/sa/app/Services/Notification/NotificationService.php" timestamp="1544712403214">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/database/migrations/2018_03_28_201411_duplicate_training_levels_for_orgs.php" timestamp="1522274576268">
         <mark key="[" line="17" column="30" />
@@ -152,6 +156,9 @@
       </file>
       <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/AngularController.php" timestamp="1544630592438">
         <mark key="[" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/CodeSniffTest.php" timestamp="1544711656734">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/widgets/cels-uploadcare-manager.js" timestamp="1544640847388">
         <mark key="[" line="270" column="48" />
@@ -278,10 +285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xclude-pat</text>
+        <text>namespace Sa\Services\Notification;</text>
       </register>
       <register name="-" type="4">
-        <text>xclude-pat</text>
+        <text>namespace Sa\Services\Notification;</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
