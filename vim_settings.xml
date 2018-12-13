@@ -239,10 +239,12 @@
         <mark key="^" line="299" column="43" />
         <mark key="." line="299" column="43" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/phpcs.xml" timestamp="1544653543229">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/development/cels/sa/phpcs.xml" timestamp="1544662631984">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Meetings/Test.php" timestamp="1544628576158">
         <mark key="[" line="0" column="5" />
@@ -265,13 +267,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa/app/Models/User.php" />
       <jump line="929" column="12" filename="$USER_HOME$/development/cels/sa/app/Models/User.php" />
       <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/FormsController.php" />
+      <jump line="9" column="17" filename="$USER_HOME$/development/cels/sa/phpcs.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>xclude-pat</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>xclude-pat</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
