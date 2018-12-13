@@ -9,6 +9,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/TraineeProgressReportController/TraineeProgressReportAuthTest.php" timestamp="1544717922913">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="53" column="50" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/TestController.php" timestamp="1544630208101">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -20,7 +26,7 @@
         <mark key="]" line="13" column="135" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1544713619826">
+      <file name="/a.dummy" timestamp="1544718164895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/GoalsController.php" timestamp="1541444831768">
@@ -71,6 +77,11 @@
       <file name="$USER_HOME$/development/cels/sa4/app/Repositories/Eloquent/TrainingLevelRepository.php" timestamp="1522266112638">
         <mark key="[" line="21" column="25" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/widgets/cels-progress-chart-trainees.js" timestamp="1544719430150">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="38" column="30" />
+        <mark key="." line="38" column="30" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Services/Form/FormServiceTest.php" timestamp="1533049028551">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -96,6 +107,12 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/TrainingReportsController/TrainingProgressReportsAuthTest.php" timestamp="1544718106591">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/UsersController.php" timestamp="1532972975949">
         <mark key="[" line="332" column="9" />
         <mark key="]" line="332" column="10" />
@@ -117,11 +134,34 @@
         <mark key="^" line="347" column="35" />
         <mark key="." line="347" column="35" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/TraineeProgressReportsController.php" timestamp="1544717328332">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Listeners/PublicUploadListener.php" timestamp="1525983406642">
         <mark key="[" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Services/Upload/PublicUploadService.php" timestamp="1525983693746">
         <mark key="[" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/TrainingReportsController.php" timestamp="1544717846697">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/TraineeProgressReportController.php" timestamp="1544717728807">
+        <mark key="'" line="24" column="23" />
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/WeeklyTrainingReports/WeeklyTrainingReportsAuthTest.php" timestamp="1544718286214">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="26" column="105" />
+        <mark key="^" line="26" column="105" />
+        <mark key="." line="26" column="105" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Services/Validation/TrainingPlanValidator.php" timestamp="1522354664046">
         <mark key="[" line="48" column="13" />
@@ -155,6 +195,9 @@
         <mark key="^" line="361" column="27" />
         <mark key="." line="361" column="27" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/services/chart-service.js" timestamp="1544718503498">
+        <mark key="[" line="397" column="30" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Http/Controllers/Api/MeetingsController.php" timestamp="1522167398166">
         <mark key="[" line="55" column="27" />
         <mark key="]" line="56" column="0" />
@@ -170,14 +213,28 @@
       <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/widgets/cels-uploadcare-manager.js" timestamp="1544640847388">
         <mark key="[" line="270" column="48" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/views/angular/widgets/cels-dashboard-trainee.blade.php" timestamp="1544719671800">
+        <mark key="[" line="164" column="57" />
+        <mark key="]" line="164" column="57" />
+        <mark key="." line="164" column="57" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Meetings/MeetingsControllerTest.php" timestamp="1544710605205">
         <mark key="[" line="37" column="60" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/database/factories/ModelFactory.php" timestamp="1544718349923">
+        <mark key="[" line="532" column="100" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Models/Upload.php" timestamp="1528221104512">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="5" />
         <mark key="." line="13" column="5" />
         <mark key="^" line="13" column="5" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/widgets/cels-progress-chart-faculty.js" timestamp="1544718993351">
+        <mark key="[" line="22" column="30" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/TrainingLevelProgressReports/TrainingLevelProgressReportsAuthorizationTest.php" timestamp="1544717404369">
+        <mark key="[" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/tests/unit/Controllers/PublicUploads/PublicUploadsControllerTest.php" timestamp="1525983673972">
         <mark key="[" line="7" column="7" />
@@ -193,6 +250,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="54" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Policies/UserPolicy.php" timestamp="1544717248389">
+        <mark key="[" line="235" column="5" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/database/migrations/2018_03_07_144514_add_placement_instructions_to_organization.php" timestamp="1522262300867">
         <mark key="[" line="15" column="10" />
@@ -221,7 +281,7 @@
       <file name="$USER_HOME$/development/cels/sa/phpcs.dist" timestamp="1544649704943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544715786085">
+      <file name="/Dummy.txt" timestamp="1544718515729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -237,6 +297,11 @@
         <mark key="]" line="15" column="47" />
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/resources/assets/angular/widgets/cels-progress-chart-trainee.js" timestamp="1544720284585">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/tests/unit/Validators/PublicUploadValidatorTest.php" timestamp="1525983896957">
         <mark key="[" line="6" column="9" />
@@ -304,46 +369,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa/app/Services/Notification/NotificationService.php" />
       <jump line="16" column="24" filename="$USER_HOME$/development/cels/sa/app/Policies/TrainingLevelPolicy.php" />
       <jump line="77" column="89" filename="$USER_HOME$/development/cels/sa/tests/Feature/TrainingProgressReports/TrainingLevelProgressReportAuthorizationTest.php" />
+      <jump line="24" column="23" filename="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/TraineeProgressReportController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0SnNvbigiL2FwaS9yZXBvcnRzL3RyYWluaW5nLyR0cmFpbmluZy0+aWQiKS0+YXNzZXJ0UmVzcG9uc2VPaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluaW5nLnByaW1hcnlVc2VyID0gdHJhaW5pbmcudHJhaW5lZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X2ZhY3VsdHlfYW5kX3RyYWluZWVfY2Fubm90X2dldF9jb21iaW5lZF9mYWN1bHR5X3Byb2dyZXNzKCkKICAgIHsKICAgICAgICAkcGxhY2VtZW50ID0gY3JlYXRlKFBsYWNlbWVudDo6Y2xhc3MpOwogICAgICAgICRvcmcgPSAkcGxhY2VtZW50LT50cmFpbmluZy0+b3JnYW5pemF0aW9uOwogICAgICAgICR0cmFpbmluZ0xldmVsID0gJHBsYWNlbWVudC0+dHJhaW5pbmctPnRyYWluaW5nUGxhbi0+dHJhaW5pbmdMZXZlbDsKCiAgICAgICAgJGNvb3JkID0gY3JlYXRlKFVzZXI6OmNsYXNzKTsKICAgICAgICAkcG9zID0gY3JlYXRlKFBvc2l0aW9uOjpjbGFzcywgWyd1c2VyX2lkJyA9PiAkY29vcmQtPmlkLCAncm9sZV9pZCcgPT4gcm9sZSgnY29vcmRpbmF0b3InKS0+aWQsICdvcmdhbml6YXRpb25faWQnID0+ICRvcmctPmlkXSk7CgogICAgICAgIGF1dGgoKS0+bG9naW4oJHBsYWNlbWVudC0+dHJhaW5lZSk7CiAgICAgICAgJHRoaXMtPmdldEpzb24oIi9hcGkvcmVwb3J0cy90cmFpbmluZ19sZXZlbC8kdHJhaW5pbmdMZXZlbC0+aWQvZmFjdWx0eSIpLT5hc3NlcnRSZXNwb25zZVN0YXR1cyhIVFRQX0ZPUkJJRERFTik7CgogICAgICAgIGF1dGgoKS0+bG9naW4oJHBsYWNlbWVudC0+dHJhaW5pbmctPmZhY3VsdHkpOwogICAgICAgICR0aGlzLT5nZXRKc29uKCIvYXBpL3JlcG9ydHMvdHJhaW5pbmdfbGV2ZWwvJHRyYWluaW5nTGV2ZWwtPmlkL2ZhY3VsdHkiKS0+YXNzZXJ0UmVzcG9uc2VTdGF0dXMoSFRUUF9GT1JCSURERU4pOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBmb3JFYWNoKGZ1bmN0aW9uKHRyYWluaW5nKSB7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaGVyZScpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgJGh0dHAuZ2V0KCcvYXBpL3JlcG9ydHMvdHJhaW5pbmcvJyArIHNjb3BlLnRyYWluaW5nSWQpLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgICBzY29wZS50cmFpbmluZ1dpdGhSZXBvcnQgPSByZXNwb25zZS5kYXRhOwogICAgICAgICAgc2NvcGUubG9hZGVkID0gdHJ1ZTsKICAgICAgICAgIHJlZnJlc2goKTsKICAgICAgICB9KTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZnJlc2goKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXBwcm92ZWRQbGFjZW1lbnRzKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X3RyYWluZWVfY2FuX2dldF9vdygpCg==</text>
+      <register name="8" type="4">
+        <text>;
+
+          scope.trainingsWithReport.forEach(function(training) {
+            training.primaryUser = training.trainee;
+          });</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHRlc3Rfb25seV9jb29yZGluYXRvcl9jYW5fZ2V0X2FsbF9mYWN1bHR5X3Byb2dyZXNzKCkKICAgIHsKICAgICAgICAkcGxhY2VtZW50ID0gY3JlYXRlKFBsYWNlbWVudDo6Y2xhc3MpOwogICAgICAgICRvcmcgPSAkcGxhY2VtZW50LT50cmFpbmluZy0+b3JnYW5pemF0aW9uOwogICAgICAgICR0cmFpbmluZ0xldmVsID0gJHBsYWNlbWVudC0+dHJhaW5pbmctPnRyYWluaW5nUGxhbi0+dHJhaW5pbmdMZXZlbDsKCiAgICAgICAgJGNvb3JkID0gY3JlYXRlKFVzZXI6OmNsYXNzKTsKICAgICAgICAkcG9zID0gY3JlYXRlKFBvc2l0aW9uOjpjbGFzcywgWyd1c2VyX2lkJyA9PiAkY29vcmQtPmlkLCAncm9sZV9pZCcgPT4gcm9sZSgnY29vcmRpbmF0b3InKS0+aWQsICdvcmdhbml6YXRpb25faWQnID0+ICRvcmctPmlkXSk7CgogICAgICAgIGF1dGgoKS0+bG9naW4oJGNvb3JkKTsKCiAgICAgICAgJHRoaXMtPmdldEpzb24oIi9hcGkvcmVwb3J0cy90cmFpbmluZ19sZXZlbC8kdHJhaW5pbmdMZXZlbC0+aWQvZmFjdWx0eSIpLT5hc3NlcnRSZXNwb25zZU9rKCk7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0SnNvbigiL2FwaS9yZXBvcnRzL2ZhY3VsdHkvJGZhY3VsdHktPmlkL3RyYWluZWVzIiktPmFzc2VydFJlc3BvbnNlU3RhdHVzKEhUVFBfRk9SQklEREVOKTsK</text>
       </register>
     </registers>
     <search>
