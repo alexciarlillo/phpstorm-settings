@@ -150,12 +150,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/TraineeProgressReportController.php" timestamp="1544717728807">
-        <mark key="'" line="24" column="23" />
-        <mark key="[" line="16" column="58" />
-        <mark key="]" line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-        <mark key="." line="24" column="23" />
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/TraineeProgressReportController.php" timestamp="1544729486444">
+        <mark key="'" line="29" column="23" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="29" column="23" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="29" column="23" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/WeeklyTrainingReports/WeeklyTrainingReportsAuthTest.php" timestamp="1544718286214">
         <mark key="[" line="29" column="60" />
@@ -306,6 +306,11 @@
       <file name="$USER_HOME$/development/cels/sa4/tests/unit/Validators/PublicUploadValidatorTest.php" timestamp="1525983896957">
         <mark key="[" line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/routes/api/reports.php" timestamp="1544729447807">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa/resources/views/partials/privateHeader.blade.php" timestamp="1533049622091">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -373,7 +378,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Ly8gbmV3IHJlcG9ydGluZyByb3V0ZXMK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -382,38 +387,34 @@
         <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0SnNvbigiL2FwaS9yZXBvcnRzL3RyYWluaW5nLyR0cmFpbmluZy0+aWQiKS0+YXNzZXJ0UmVzcG9uc2VPaygpOwo=</text>
+        <text encoding="base64">Um91dGU6OmdldCgncmVwb3J0cy90cmFpbmluZy97dHJhaW5pbmd9L3twZGY/fScsICdBcGlcVHJhaW5pbmdSZXBvcnRzQ29udHJvbGxlckBzaG93Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Ly8gbmV3IHJlcG9ydGluZyByb3V0ZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluaW5nLnByaW1hcnlVc2VyID0gdHJhaW5pbmcudHJhaW5lZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb3JFYWNoKGZ1bmN0aW9uKHRyYWluaW5nKSB7Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgJGh0dHAuZ2V0KCcvYXBpL3JlcG9ydHMvdHJhaW5pbmcvJyArIHNjb3BlLnRyYWluaW5nSWQpLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgICBzY29wZS50cmFpbmluZ1dpdGhSZXBvcnQgPSByZXNwb25zZS5kYXRhOwogICAgICAgICAgc2NvcGUubG9hZGVkID0gdHJ1ZTsKICAgICAgICAgIHJlZnJlc2goKTsKICAgICAgICB9KTs=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZnJlc2goKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXBwcm92ZWRQbGFjZW1lbnRzKQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Um91dGU6OmdldCgncmVwb3J0cy90cmFpbmVlL3t1c2VyfScsICdBcGlcVHJhaW5lZVJlcG9ydENvbnRyb2xsZXJAc2hvdycpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>;
-
-          scope.trainingsWithReport.forEach(function(training) {
-            training.primaryUser = training.trainee;
-          });</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluaW5nLnByaW1hcnlVc2VyID0gdHJhaW5pbmcudHJhaW5lZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBmb3JFYWNoKGZ1bmN0aW9uKHRyYWluaW5nKSB7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgJGh0dHAuZ2V0KCcvYXBpL3JlcG9ydHMvdHJhaW5pbmcvJyArIHNjb3BlLnRyYWluaW5nSWQpLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgICBzY29wZS50cmFpbmluZ1dpdGhSZXBvcnQgPSByZXNwb25zZS5kYXRhOwogICAgICAgICAgc2NvcGUubG9hZGVkID0gdHJ1ZTsKICAgICAgICAgIHJlZnJlc2goKTsKICAgICAgICB9KTs=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlZnJlc2goKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0SnNvbigiL2FwaS9yZXBvcnRzL2ZhY3VsdHkvJGZhY3VsdHktPmlkL3RyYWluZWVzIiktPmFzc2VydFJlc3BvbnNlU3RhdHVzKEhUVFBfRk9SQklEREVOKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
