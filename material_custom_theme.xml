@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialCustomThemeConfig">
     <option name="notificationsColor" value="2f343f" />
-    <option name="treeSelectionColor" value="b48ead" />
+    <option name="treeSelectionColor" value="4b5262" />
     <option name="highlightColor" value="81a1c1" />
     <option name="secondBorderColor" value="2a373e" />
     <option name="tableSelectedColor" value="b48ead" />
@@ -10,7 +10,7 @@
     <option name="buttonColor" value="4b5262" />
     <option name="selectionForegroundColor" value="ffffff" />
     <option name="selectionBackgroundColor" value="4b5262" />
-    <option name="textColor" value="7191b1" />
+    <option name="textColor" value="81a1c1" />
     <option name="foregroundColor" value="e5e9f0" />
     <option name="backgroundColor" value="3b4252" />
   </component>

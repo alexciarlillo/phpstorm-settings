@@ -20,7 +20,7 @@
         <mark key="]" line="13" column="135" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1544632251234">
+      <file name="/a.dummy" timestamp="1544713619826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/GoalsController.php" timestamp="1541444831768">
@@ -62,11 +62,11 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/tests/Feature/TrainingProgressReports/FacultyProgressTest.php" timestamp="1544713095063">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-        <mark key="^" line="22" column="19" />
+      <file name="$USER_HOME$/development/cels/sa/tests/Feature/TrainingProgressReports/FacultyProgressTest.php" timestamp="1544713595953">
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="41" column="37" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Repositories/Eloquent/TrainingLevelRepository.php" timestamp="1522266112638">
         <mark key="[" line="21" column="25" />
@@ -80,6 +80,13 @@
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Policies/TrainingLevelPolicy.php" timestamp="1544715610464">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/development/cels/sa4/app/Transformers/PublicUploadTransformer.php" timestamp="1525983875822">
         <mark key="[" line="6" column="12" />
@@ -190,6 +197,13 @@
       <file name="$USER_HOME$/development/cels/sa4/database/migrations/2018_03_07_144514_add_placement_instructions_to_organization.php" timestamp="1522262300867">
         <mark key="[" line="15" column="10" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/tests/Feature/TrainingProgressReports/TrainingLevelProgressReportAuthorizationTest.php" timestamp="1544715643588">
+        <mark key="'" line="47" column="89" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="66" column="109" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Services/Form/AssessmentCategory/FormServiceTest.php" timestamp="1533046812723">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -207,7 +221,7 @@
       <file name="$USER_HOME$/development/cels/sa/phpcs.dist" timestamp="1544649704943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544646218967">
+      <file name="/Dummy.txt" timestamp="1544715786085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -241,10 +255,11 @@
         <mark key="^" line="1681" column="28" />
         <mark key="." line="1681" column="28" />
       </file>
-      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/TrainingLevelProgressReportController.php" timestamp="1544634301064">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/TrainingLevelProgressReportController.php" timestamp="1544715460168">
+        <mark key="[" line="42" column="74" />
+        <mark key="]" line="42" column="50" />
+        <mark key="." line="42" column="50" />
+        <mark key="^" line="42" column="50" />
       </file>
       <file name="$USER_HOME$/development/cels/sa/resources/assets/js/controllers/admin/adminOrganizationsCtrls.js" timestamp="1533044826796">
         <mark key="[" line="300" column="5" />
@@ -265,6 +280,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1522352047626">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/development/cels/sa/app/Providers/AuthServiceProvider.php" timestamp="1544714509072">
+        <mark key="[" line="121" column="19" />
+        <mark key="]" line="121" column="57" />
+        <mark key="." line="121" column="0" />
+      </file>
       <file name="$USER_HOME$/development/cels/sa/tests/unit/Controllers/Organizations/OrganizationsControllerTest.php" timestamp="1531836024253">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="46" column="4" />
@@ -282,46 +302,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa/app/Http/Controllers/Api/FormsController.php" />
       <jump line="9" column="17" filename="$USER_HOME$/development/cels/sa/phpcs.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/development/cels/sa/app/Services/Notification/NotificationService.php" />
+      <jump line="16" column="24" filename="$USER_HOME$/development/cels/sa/app/Policies/TrainingLevelPolicy.php" />
+      <jump line="77" column="89" filename="$USER_HOME$/development/cels/sa/tests/Feature/TrainingProgressReports/TrainingLevelProgressReportAuthorizationTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>namespace Sa\Services\Notification;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0SnNvbigiL2FwaS9yZXBvcnRzL3RyYWluaW5nX2xldmVsLyR0cmFpbmluZ0xldmVsLT5pZC9mYWN1bHR5IiktPmFzc2VydFJlc3BvbnNlU3RhdHVzKEhUVFBfRk9SQklEREVOKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVzdCA9IFsxLDJdOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X2ZhY3VsdHlfYW5kX3RyYWluZWVfY2Fubm90X2dldF9jb21iaW5lZF9mYWN1bHR5X3Byb2dyZXNzKCkKICAgIHsKICAgICAgICAkcGxhY2VtZW50ID0gY3JlYXRlKFBsYWNlbWVudDo6Y2xhc3MpOwogICAgICAgICRvcmcgPSAkcGxhY2VtZW50LT50cmFpbmluZy0+b3JnYW5pemF0aW9uOwogICAgICAgICR0cmFpbmluZ0xldmVsID0gJHBsYWNlbWVudC0+dHJhaW5pbmctPnRyYWluaW5nUGxhbi0+dHJhaW5pbmdMZXZlbDsKCiAgICAgICAgJGNvb3JkID0gY3JlYXRlKFVzZXI6OmNsYXNzKTsKICAgICAgICAkcG9zID0gY3JlYXRlKFBvc2l0aW9uOjpjbGFzcywgWyd1c2VyX2lkJyA9PiAkY29vcmQtPmlkLCAncm9sZV9pZCcgPT4gcm9sZSgnY29vcmRpbmF0b3InKS0+aWQsICdvcmdhbml6YXRpb25faWQnID0+ICRvcmctPmlkXSk7CgogICAgICAgIGF1dGgoKS0+bG9naW4oJHBsYWNlbWVudC0+dHJhaW5lZSk7CiAgICAgICAgJHRoaXMtPmdldEpzb24oIi9hcGkvcmVwb3J0cy90cmFpbmluZ19sZXZlbC8kdHJhaW5pbmdMZXZlbC0+aWQvZmFjdWx0eSIpLT5hc3NlcnRSZXNwb25zZVN0YXR1cyhIVFRQX0ZPUkJJRERFTik7CgogICAgICAgIGF1dGgoKS0+bG9naW4oJHBsYWNlbWVudC0+dHJhaW5pbmctPmZhY3VsdHkpOwogICAgICAgICR0aGlzLT5nZXRKc29uKCIvYXBpL3JlcG9ydHMvdHJhaW5pbmdfbGV2ZWwvJHRyYWluaW5nTGV2ZWwtPmlkL2ZhY3VsdHkiKS0+YXNzZXJ0UmVzcG9uc2VTdGF0dXMoSFRUUF9GT1JCSURERU4pOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxydWxlIHJlZj0iR2VuZXJpYy5BcnJheXMuRGlzYWxsb3dMb25nQXJyYXlTeW50YXgiLz4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaGVyZScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0gYWRkaXRpb25hbCBydWxlcyAtLT4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicGhwLWNzLWZpeGVyIjogInBocC1jcy1maXhlciAtLWNvbmZpZz0uLy5waHBfY3MuZGlzdCIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAicGhwY3MiOiAicGhwY3MgLS1zdGFuZGFyZD1waHBjcy54bWwiLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X3RyYWluZWVfY2FuX2dldF9vdygpCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHRlc3Rfb25seV9jb29yZGluYXRvcl9jYW5fZ2V0X2FsbF9mYWN1bHR5X3Byb2dyZXNzKCkKICAgIHsKICAgICAgICAkcGxhY2VtZW50ID0gY3JlYXRlKFBsYWNlbWVudDo6Y2xhc3MpOwogICAgICAgICRvcmcgPSAkcGxhY2VtZW50LT50cmFpbmluZy0+b3JnYW5pemF0aW9uOwogICAgICAgICR0cmFpbmluZ0xldmVsID0gJHBsYWNlbWVudC0+dHJhaW5pbmctPnRyYWluaW5nUGxhbi0+dHJhaW5pbmdMZXZlbDsKCiAgICAgICAgJGNvb3JkID0gY3JlYXRlKFVzZXI6OmNsYXNzKTsKICAgICAgICAkcG9zID0gY3JlYXRlKFBvc2l0aW9uOjpjbGFzcywgWyd1c2VyX2lkJyA9PiAkY29vcmQtPmlkLCAncm9sZV9pZCcgPT4gcm9sZSgnY29vcmRpbmF0b3InKS0+aWQsICdvcmdhbml6YXRpb25faWQnID0+ICRvcmctPmlkXSk7CgogICAgICAgIGF1dGgoKS0+bG9naW4oJGNvb3JkKTsKCiAgICAgICAgJHRoaXMtPmdldEpzb24oIi9hcGkvcmVwb3J0cy90cmFpbmluZ19sZXZlbC8kdHJhaW5pbmdMZXZlbC0+aWQvZmFjdWx0eSIpLT5hc3NlcnRSZXNwb25zZU9rKCk7CiAgICB9</text>
       </register>
     </registers>
     <search>
@@ -392,6 +414,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
