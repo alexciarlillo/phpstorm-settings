@@ -2,6 +2,7 @@
   <component name="ExportableFileTemplateSettings">
     <internal_templates>
       <template name="PHP Class.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Trait.php" reformat="true" live-template-enabled="true" enabled="true" />
     </internal_templates>
     <includes_templates>
       <template name="PHP Field Doc Comment.php" reformat="true" live-template-enabled="true" enabled="true" />

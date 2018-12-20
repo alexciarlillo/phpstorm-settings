@@ -1,7 +1,54 @@
 <templateSet group="PHP">
-  <template name="met" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public function" toReformat="true" toShortenFQNames="true">
+  <template name="met" value="public function $NAME$($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="public function" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="smet" value="public static function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="psmet" value="protected static function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="protected static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="prim" value="private function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="private function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="prism" value="private static function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="private static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="pmet" value="protected function $NAME$($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="protected method" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="sat" value="/**&#10;* @group $GROUP$&#10;*/&#10;public function test_$NAME$()&#10;{&#10;    $END$&#10;}" description="SA Test Case" toReformat="true" toShortenFQNames="true">
+    <variable name="GROUP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="_c" value="public function __construct($PARAMETERS)&#10;{&#10;    $END$&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
