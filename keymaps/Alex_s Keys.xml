@@ -11,6 +11,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="BaseOnThisFunction" />
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="ChooseRunConfiguration" />
   <action id="CloseActiveTab" />
   <action id="CloseAllEditors">
@@ -73,6 +74,7 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UnselectPreviousOccurrence">
